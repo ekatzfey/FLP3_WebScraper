@@ -1,0 +1,4 @@
+requests/
+*.html
+*.txt
+*.xcodeproj
